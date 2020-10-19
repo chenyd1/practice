@@ -1,3 +1,5 @@
 dev1.0开发
 test 测试1.0版本
 release 1.0版本发布上线
+master 1.0版本做备份
+dev 修复线上bug
