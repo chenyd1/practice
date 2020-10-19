@@ -4,3 +4,4 @@ release 1.0版本发布上线
 master 1.0版本做备份
 dev 线上bug修复
 test 线上bug测试
+release 修复bug发布线上
